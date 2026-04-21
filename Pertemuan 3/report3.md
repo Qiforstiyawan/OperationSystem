@@ -1,9 +1,9 @@
 # Laporan Pertemuan ke-3 Sistem Operasi
 
 **Tanggal:** 01 maret 2026  
-**Disusun Oleh:** Mukhammad Raffi Zabra  
-**NIM:** 254107020059  
-**Kelas/No:** TI-1G/24  
+**Disusun Oleh:** Rofiq Aristiyawan
+**NIM:** 254107020060  
+**Kelas/No:** TI-1G/27  
 
 ---
 
